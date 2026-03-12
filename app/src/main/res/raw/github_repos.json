@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "full_name": "JetBrains/kotlin",
+    "description": "The Kotlin Programming Language",
+    "stargazers_count": 48000,
+    "language": "Kotlin"
+  },
+  {
+    "id": 2,
+    "full_name": "square/okhttp",
+    "description": "Square's meticulous HTTP client for the JVM, Android, and GraalVM",
+    "stargazers_count": 45000,
+    "language": "Java"
+  },
+  {
+    "id": 3,
+    "full_name": "square/retrofit",
+    "description": "A type-safe HTTP client for Android and the JVM",
+    "stargazers_count": 42000,
+    "language": "Java"
+  },
+  {
+    "id": 4,
+    "full_name": "google/gson",
+    "description": "A Java serialization/deserialization library to convert Java Objects into JSON and back",
+    "stargazers_count": 23000,
+    "language": "Java"
+  },
+  {
+    "id": 5,
+    "full_name": "ReactiveX/RxJava",
+    "description": "RxJava – Reactive Extensions for the JVM",
+    "stargazers_count": 47000,
+    "language": "Java"
+  },
+  {
+    "id": 6,
+    "full_name": "Kotlin/kotlinx.coroutines",
+    "description": "Library support for Kotlin coroutines",
+    "stargazers_count": 13000,
+    "language": "Kotlin"
+  },
+  {
+    "id": 7,
+    "full_name": "coil-kt/coil",
+    "description": "Image loading for Android backed by Kotlin Coroutines",
+    "stargazers_count": 10000,
+    "language": "Kotlin"
+  },
+  {
+    "id": 8,
+    "full_name": "material-components/material-components-android",
+    "description": "Modular and customizable Material Design UI components for Android",
+    "stargazers_count": 16000,
+    "language": "Java"
+  },
+  {
+    "id": 9,
+    "full_name": "airbnb/lottie-android",
+    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native",
+    "stargazers_count": 34000,
+    "language": "Java"
+  },
+  {
+    "id": 10,
+    "full_name": "bumptech/glide",
+    "description": "An image loading and caching library for Android focused on smooth scrolling",
+    "stargazers_count": 34000,
+    "language": "Java"
+  }
+]
